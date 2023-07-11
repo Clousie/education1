@@ -1,2 +1,1 @@
-# education1
-git 수업자료
+안녕하세용
